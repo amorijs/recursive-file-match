@@ -2,7 +2,7 @@
   "name": "recursive-file-match",
   "version": "1.0.0",
   "description": "Asynchronously search directory and all sub-directories for any files that match a given string or Regex pattern.",
-  "main": "recursiveFileMatch.js",
+  "main": "lib/recursiveFileMatch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
