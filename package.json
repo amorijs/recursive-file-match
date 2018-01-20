@@ -1,0 +1,22 @@
+{
+  "name": "recursive-file-match",
+  "version": "1.0.0",
+  "description": "Asynchronously search directory and all sub-directories for any files that match a given string or Regex pattern.",
+  "main": "recursiveFileMatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amorijs/recursive-file-match.git"
+  },
+  "author": "amorijs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amorijs/recursive-file-match/issues"
+  },
+  "homepage": "https://github.com/amorijs/recursive-file-match#readme",
+  "dependencies": {
+    "throque": "^1.0.3"
+  }
+}
